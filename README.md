@@ -1,1 +1,3 @@
 THIS IS A TEST PROJECT
+
+app.js 추가 됨
